@@ -1,4 +1,5 @@
 TechLend---CRM-System-for-Laptop-Rentals
+
 Welcome to the TechLend Rental System built on the Salesforce platform. This system enables users to rent electronic devices (like laptops, tablets, phones, etc.) for specified periods, track availability, manage inventory, and handle rentals and returns efficiently.
 
 #Features Device Inventory Management: Add, update, and manage available devices for rental. Rental and Return Tracking: Track device rentals, rental durations, and manage returns. Availability Check: Ensure device availability and manage bookings effectively. Customer and Rental History: Track customer details and rental history for easy management and analysis. Reports and Analytics: Generate reports on device utilization, rental durations, customer preferences, etc.
