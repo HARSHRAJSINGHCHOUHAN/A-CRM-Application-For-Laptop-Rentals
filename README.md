@@ -1,5 +1,8 @@
-A CRM application for laptop rentals SmartTech Rentals is a Customer Relationship Management (CRM) application built on Salesforce, designed to streamline and manage the laptop rental process for businesses. With a user-friendly interface, SmartTech Rentals allows users to track inventory, manage rental contracts, monitor asset availability, and process rental orders efficiently. Key features include:
+TechLend---CRM-System-for-Laptop-Rentals
+Welcome to the TechLend Rental System built on the Salesforce platform. This system enables users to rent electronic devices (like laptops, tablets, phones, etc.) for specified periods, track availability, manage inventory, and handle rentals and returns efficiently.
 
-Inventory Management: Real-time tracking of laptops and accessories available for rent. **Customer Management: **Maintain detailed profiles and rental histories for all clients. **Order Processing: **Simplified workflows to create, modify, and finalize rental agreements. Reporting and Analytics: Comprehensive reports to aid in decision-making and assess performance metrics.
+#Features Device Inventory Management: Add, update, and manage available devices for rental. Rental and Return Tracking: Track device rentals, rental durations, and manage returns. Availability Check: Ensure device availability and manage bookings effectively. Customer and Rental History: Track customer details and rental history for easy management and analysis. Reports and Analytics: Generate reports on device utilization, rental durations, customer preferences, etc.
 
-SmartTech Rentals leverages Salesforce’s powerful platform to provide a seamless, scalable solution for rental operations, tailored for businesses looking to enhance their customer interactions and operational efficiency.
+#Usage Navigating the System Device Inventory: Go to the Device Inventory tab to view and manage available devices. Rent Device: Navigate to Rentals to create a new rental entry. Select a device, customer, and rental duration. Return Device: Use the Return Device option to close a rental and update device availability. Reporting: Access Reports & Dashboards to view device usage, customer data, and rental statistics.
+
+#Sample Flow Create or select a customer. Check available devices and create a rental. Track the rental status until return. Generate reports as needed.
