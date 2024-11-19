@@ -1,3 +1,5 @@
+Project Documentation : https://workdrive.zohoexternal.com/writer/open/gwabz4919a74daa124338b37eea7db988241a?authId=%7B%22linkId%22%3A%225k2wApaAsdP-LYmlU%22%7D
+Password : oawIO0Y
 TechLend---CRM-System-for-Laptop-Rentals
 
 Welcome to the TechLend Rental System built on the Salesforce platform. This system enables users to rent electronic devices (like laptops, tablets, phones, etc.) for specified periods, track availability, manage inventory, and handle rentals and returns efficiently.
